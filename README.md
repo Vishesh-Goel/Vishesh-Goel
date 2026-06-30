@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">- 💻 I'm currently learning Web Technologies like React.js, Node.js, Tailwind and Database.<br>- 🎓 Pursuing B-Tech in CSE from USICT, GGSIPU.<br>- 🔭I just love to create impactful real-world websites.</p>
+<p align="left">- 💻 Developing production-grade AI-powered applications.<br>- 🎓 Pursuing B-Tech in CSE from USICT, GGSIPU.<br>- 🔭I just love to create impactful real-world websites.</p>
 
 ###
 
