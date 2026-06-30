@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">An aspiring React Developer from India.</p>
+<p align="center">An Full stack Developer from India.</p>
 
 ###
 
