@@ -41,8 +41,15 @@
 <h2 align="left">Connect with Me!</h2>
 
 ###
-[![LinkedIn](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg)](https://www.linkedin.com/in/vishesh-goel-a64604323)
-[![Gmail](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg)](mailto:visheshgoel2004@gmail.com)
+<p align="left">
+  <a href="https://www.linkedin.com/in/vishesh-goel-a64604323">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" />
+  </a>
+  <a href="mailto:visheshgoel2004@gmail.com">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" height="40" />
+  </a>
+</p>
+
 
 
 
