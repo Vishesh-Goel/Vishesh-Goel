@@ -41,11 +41,10 @@
 <h2 align="left">Connect with Me!</h2>
 
 ###
+[![LinkedIn](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg)](https://www.linkedin.com/in/vishesh-goel-a64604323)
+[![Gmail](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg)](mailto:visheshgoel2004@gmail.com)
 
-<div align="left">
-  <img src="https://www.linkedin.com/in/vishesh-goel-a64604323" width="52" height="40" alt="linkedin logo"  />
-  <img src="visheshgoel2004@gmail.com" width="52" height="40" alt="gmail logo"  />
-</div>
+
 
 ###
 
